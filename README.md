@@ -1,6 +1,6 @@
-# Hi there, I'm Mike Muturi 👋
+# Hi there, I'm Mike Muturi 
 
-**Software & Infrastructure Engineer** based in Nairobi, Kenya 🇰🇪  
+**Software & Infrastructure Engineer** based in Nairobi, Kenya  
 Building high-performance backend systems, distributed architectures, and scalable cloud infrastructure.
 
  **Portfolio:** [mikemuturi.co.ke](https://mikemuturi.co.ke/)  
@@ -39,7 +39,7 @@ Building high-performance backend systems, distributed architectures, and scalab
 
 ---
 
-## ⚡ Tech Stack Badges
+## Tech Stack Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
