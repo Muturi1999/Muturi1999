@@ -1,7 +1,7 @@
 # Hi there, I'm Mike Muturi 
 
-**Software & Infrastructure Engineer** based in Nairobi, Kenya  
-Building high-performance backend systems, distributed architectures, and scalable cloud infrastructure.
+**Software & Infrastructure Engineer** based in Nairobi, Kenya   
+Building high-performance and scalable systems with distributed architectures and cloud infrastructure.
 
  **Portfolio:** [mikemuturi.co.ke](https://mikemuturi.co.ke/)  
  **LinkedIn:** [linkedin.com/in/michael-muturi](https://www.linkedin.com/in/michael-muturi)  
